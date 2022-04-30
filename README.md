@@ -8,12 +8,12 @@
 - 就像茫茫人海，相遇本就不易。于是我便开始主动，我知道，自己不努力，是不会拥有的！
 - 但是随着自己技术的逐渐增强，我意识到，我这牛逼的肾该干些什么了...咳咳...自己的一身本领应该要为自己做些什么了！（我是菜鸟）
 - 于是，我开发了这么一套前后端分离的框架模板。
-- 前端地址：
+- 前端地址：https://gitee.com/jshForever/shaohao-fast-dev-vue-master
 
 **项目说明** 
 - 支持MySQL、Oracle、SQL Server、PostgreSQL等主流数据库
-- 前端地址：
-- 代码生成器：
+- 前端地址：https://gitee.com/jshForever/shaohao-fast-dev-vue-master
+- 代码生成器：https://gitee.com/jshForever/shaohao-fast-dev-generator
 
 <br>
  
@@ -88,7 +88,7 @@ shaohao-fast-dev-master
 
  **前端部署**
  - 本项目是前后端分离的，还需要部署前端，才能运行起来
- - 前端下载地址：
+ - 前端下载地址：https://gitee.com/jshForever/shaohao-fast-dev-vue-master
  - 前端部署完毕，就可以访问项目了，账号：admin，密码：admin
  
  <br>
