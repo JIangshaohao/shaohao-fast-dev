@@ -1,0 +1,8 @@
+version: '2'
+services:
+  shaohao-fast-dev-master:
+    image: ""
+    ports:
+      - "418:418"
+    environment:
+      - spring.profiles.active=dev
